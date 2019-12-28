@@ -1,1 +1,1 @@
-# metal_enrichment
+Just a repository containing my code for a project designed to study the enrichment of metal-bearing absorbers (CIV and MgII) in Quasar Absorption lines from z~5 to z~1 (roughly 12 to 8 billion years ago).
